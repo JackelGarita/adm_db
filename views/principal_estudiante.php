@@ -44,10 +44,10 @@
 <?php
 //$conection= new mysqli("127.0.0.1", "root", "", "matricula", 8888);
 $conection = mysqli_connect(
-    'localhost:8888',
-    'root',
-    '',
-    'matricula'
+    'bzkzkzkuzcjwi9d2a2bg-mysql.services.clever-cloud.com',
+    'uc83qqg4ppdrupb6',
+    'kgk52QyokiTGlWM7dK3c',
+    'bzkzkzkuzcjwi9d2a2bg'
 );
 
 
