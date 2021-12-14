@@ -18,7 +18,7 @@ $.validator.setDefaults( {
           data: data,
           success: function (d) {
             console.log(d);
-            window.location.href="../views/index.htm"
+            window.location.href="../views/index.html"
           
           },
           error: function (d) {
