@@ -8,7 +8,7 @@ $.validator.setDefaults( {
         }
         console.log(data);
        $.ajax({
-          url: 'http://localhost/adm_db/php/post_login.php', 
+          url: 'http://app-7372f7a9-f3d9-41ef-90d7-5bd067b4b8ee.cleverapps.io/php/post_login.php', 
           type: 'POST',
          
           data: data,
